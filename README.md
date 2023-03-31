@@ -3,7 +3,7 @@
 Modified from:  https://github.com/dhakajack/jackyack
 
 Arduno ATTint85 chip gives you 4 x 100char memories, iambic a, b and ultic
-also provides a training programe.
+also provides a training programe.  All this on a chip costing < £2!
   
   
                          ATtiny85               
