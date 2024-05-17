@@ -17,5 +17,6 @@ also provides a training programe.  All this on a chip costing < £2!
 I have put this is a small case and added 10pF capacitors to all the socket pins to ground ( and button) to stop stray RF.
 
 Also run it off the 13.5V radio supplies though an LM7805.
+ ![Main Screem](https://github.com/sipsmi/attiny85_cw_keyer/blob/main/powercircuit.png?raw=true)
 
  ![Main Screem](https://github.com/sipsmi/attiny85_cw_keyer/blob/main/keyer.jpg?raw=true)
